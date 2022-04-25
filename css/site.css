@@ -1,3 +1,7 @@
+h1{
+    text-align: center;
+}
+
 form span{
     color: red;
 }
@@ -13,7 +17,7 @@ form label{
     margin-right: 2em;
 }
 
-for button{
+form button{
     margin-left: 50%;
 }
 
